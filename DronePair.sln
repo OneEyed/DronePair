@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DronePair", "DronePair\DronePair.csproj", "{5BA5BEB1-92E8-4AF7-8ECE-3597B09A8010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BA5BEB1-92E8-4AF7-8ECE-3597B09A8010}.Debug|x86.ActiveCfg = Debug|x86
+		{5BA5BEB1-92E8-4AF7-8ECE-3597B09A8010}.Debug|x86.Build.0 = Debug|x86
+		{5BA5BEB1-92E8-4AF7-8ECE-3597B09A8010}.Release|x86.ActiveCfg = Release|x86
+		{5BA5BEB1-92E8-4AF7-8ECE-3597B09A8010}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
